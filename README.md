@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevAizen
 - 👀 I’m interested in Java Scripting
 - 🌱 I’m currently learning Scripting
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on N/A ATM
 - 📫 How to reach me search me on discord, zerochi11.
 
 <!---
